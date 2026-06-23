@@ -13,9 +13,7 @@
 📸 Exploring tech
 
 🌱 Currently learning:
-- Computer Vision
 - Data Science
-- CNN
 
 🛠️ Currently building my technical foundation through projects and hands-on learning
 
