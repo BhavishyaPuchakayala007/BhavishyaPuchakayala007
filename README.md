@@ -19,8 +19,6 @@
 
 🚀 Interested in leveraging technology to solve real-world engineering and social challenges
 
-🌍 Deputy Coordinator at Sahaay, Social Innovation Club, IIT Madras
-
 ---
 
 ## 🛠️ Skills
