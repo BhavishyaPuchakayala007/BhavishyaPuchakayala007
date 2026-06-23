@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhavishya Puchakayala</h1>
 
-<h3 align="center">Mechanical Engineering Student at IIT Madras | AI & Computer Vision Enthusiast</h3>
+<h3 align="center">Mechanical Engineering Student at IIT Madras</h3>
 
 ---
 
