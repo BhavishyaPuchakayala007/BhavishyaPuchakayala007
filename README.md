@@ -8,17 +8,18 @@
 
 🎓 Sophomore pursuing B.Tech in Mechanical Engineering at IIT Madras
 
-🤖 Passionate about Artificial Intelligence, Machine Learning, and Computer Vision
+🤖 Passionate about..... have to figure out 🤔
 
-📸 Exploring technologies such as OpenCV and MediaPipe
+📸 Exploring tech
 
 🌱 Currently learning:
-- Machine Learning
 - Computer Vision
 - Data Science
-- Python Development
+- CNN
 
-💡 Interested in solving real-world problems through technology and innovation
+🛠️ Currently building my technical foundation through projects and hands-on learning
+
+🚀 Interested in leveraging technology to solve real-world engineering and social challenges
 
 🌍 Deputy Coordinator at Sahaay, Social Innovation Club, IIT Madras
 
@@ -26,12 +27,14 @@
 
 ## 🛠️ Skills
 
-- Python
+- Python (Numpy, Pandas, Matplotlib, Seaborn)
 - Machine Learning
-- Computer Vision
 - OpenCV
 - MediaPipe
 - SQL
+- AutoCAD
+- Autodesk Fusion 360
+- Scikit-Learn
 
 ---
 
