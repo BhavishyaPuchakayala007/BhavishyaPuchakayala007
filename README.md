@@ -1,29 +1,47 @@
-# Hi, I'm Bhavishya 👋
+<h1 align="center">Hi 👋, I'm Bhavishya Puchakayala</h1>
 
-🎓 Sophomore at IIT Madras
+<h3 align="center">Mechanical Engineering Student at IIT Madras | AI & Computer Vision Enthusiast</h3>
 
-💻 Passionate about Artificial Intelligence, Machine Learning, Data Science and Software Development
+---
 
-🌱 Currently Learning
+## 👩‍🎓 About Me
+
+🎓 Sophomore pursuing B.Tech in Mechanical Engineering at IIT Madras
+
+🤖 Passionate about Artificial Intelligence, Machine Learning, and Computer Vision
+
+📸 Exploring technologies such as OpenCV and MediaPipe
+
+🌱 Currently learning:
+- Machine Learning
+- Computer Vision
+- Data Science
+- Python Development
+
+💡 Interested in solving real-world problems through technology and innovation
+
+🌍 Deputy Coordinator at Sahaay, Social Innovation Club, IIT Madras
+
+---
+
+## 🛠️ Skills
 
 - Python
-- Data Structures & Algorithms
 - Machine Learning
+- Computer Vision
+- OpenCV
+- MediaPipe
+- SQL
 
-🚀 Areas of Interest
+---
 
-- Artificial Intelligence
-- Research
-- Open Source
-- Software Development
+## 🌐 Connect With Me
 
-📫 Connect with Me
+📧 bhavishya.p2008@gmail.com
 
-- LinkedIn: https://www.linkedin.com/in/bhavishya-puchakayala
-- Email: bhavishya2000@gmail.com
+💼 LinkedIn:
+https://www.linkedin.com/in/bhavishya-puchakayala
 
-## GitHub Stats
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BhavishyaPuchakayala007&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BhavishyaPuchakayala007&layout=compact)
+⭐ Always curious to learn, build, and contribute to impactful projects.
